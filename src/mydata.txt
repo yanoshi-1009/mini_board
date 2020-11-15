@@ -1,0 +1,10 @@
+{"id":"Miko","msg":""}
+{"id":"Miko","msg":"cfasdcsa"}
+{"id":"Miko","msg":"fas"}
+{"id":"Yanoshi","msg":"fds"}
+{"id":"Yanoshi","msg":"dsafd"}
+{"id":"Yanoshi","msg":"Oeko"}
+{"id":"Yanoshi","msg":"Ping"}
+{"id":"Yanoshi","msg":"OK"}
+{"id":"Yanoshi","msg":"Grat"}
+{"id":"Miko","msg":"Mikodayo"}

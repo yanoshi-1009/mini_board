@@ -12,9 +12,14 @@
   "description": "This is my nodejs template.",
   "devDependencies": {
     "@cybozu/eslint-config": "11.0.2",
+<<<<<<< HEAD
     "eslint": "7.13.0",
     "prettier": "2.1.2",
     "typescript": "^4.0.5"
+=======
+    "eslint": "7.11.0",
+    "prettier": "2.1.2"
+>>>>>>> beef4cb38707bc289a81c183f6bb6329758083d7
   },
   "dependencies": {}
 }
